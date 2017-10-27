@@ -1,0 +1,7 @@
+# totalWebpackProject
+
+run: 
+
+```
+npm i
+```
